@@ -4,7 +4,8 @@ the crop suggestion are in small dataset can be impoved for real time suggestion
 
 
 
-![Screenshot](https://github.com/ErickWDaniel/Check_For_WebSite_Dead_Link/blob/master/DeadlinkChecker.jpg](https://github.com/ErickWDaniel/Kilimo_App_Weather_checker_Vs_What_to_plant/blob/master/screenshot.jpg))
+![Screenshot](https://github.com/ErickWDaniel/Check_For_WebSite_Dead_Link/blob/master/DeadlinkChecker.jpg)
+https://github.com/ErickWDaniel/Kilimo_App_Weather_checker_Vs_What_to_plant/blob/master/screenshot.jpg))
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
